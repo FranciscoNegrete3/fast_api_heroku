@@ -1,5 +1,5 @@
 # Fast API Heroku & Railway  
-This project intented to create a basic API to improve skills on API's creation and deployment. 
+This project intented to create a basic API to improve skills on API's creation and deployment, using tools such as Python, Uvicorn Library, FastAPI Library and Heroku.
 
 ## News:
 As of 2022/10/02 this app is also deployed in railways, as Heroku is changing to paid usage.   
